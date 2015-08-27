@@ -1,2 +1,3 @@
 first,git learn.
 git diff test.
+git checkout --first
