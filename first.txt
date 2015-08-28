@@ -1,3 +1,5 @@
 first,git learn.
 git diff test.
 git checkout --first
+git reset HEAD first.txt
+git checkout -b hjs
