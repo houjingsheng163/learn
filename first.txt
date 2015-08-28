@@ -3,4 +3,4 @@ git diff test.
 git checkout --first
 git reset HEAD first.txt
 git checkout -b hjs
-git jiejue
+git chongtu jiejue
